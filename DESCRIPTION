@@ -1,0 +1,18 @@
+Package: EPT
+Version: 0.7.5
+Date: 2020-02-01
+Title: Ensemble Patch Transform, Visualization and Decomposition
+Authors@R: c(person("Donghoh", "Kim", role = c("aut", "cre"), email = "donghoh.kim@gmail.com"),
+             person("Hee-Seok", "Oh", role = "aut", email = "heeseok@stats.snu.ac.kr"),
+             person("Guebin", "Choi", role = "ctb"))
+Author: Donghoh Kim [aut, cre],
+  Hee-Seok Oh [aut],
+  Guebin Choi [ctb]
+Maintainer: Donghoh Kim <donghoh.kim@gmail.com>
+Depends: R (>= 3.0)
+Description: For multiscale analysis, this package carries out ensemble patch transform, its visualization and multiscale decomposition. The detailed procedure is described in Donghoh Kim, Guebin Choi and Hee-Seok Oh (2019) <arXiv:1904.03643>.
+License: GPL (>= 3)
+NeedsCompilation: no
+Packaged: 2020-01-29 04:56:24 UTC; donghohkim
+Repository: CRAN
+Date/Publication: 2020-02-01 08:40:05 UTC

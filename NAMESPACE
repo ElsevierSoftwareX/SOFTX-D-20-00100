@@ -1,0 +1,7 @@
+# Export all names
+exportPattern(".")
+
+importFrom("grDevices", "gray", "heat.colors")
+importFrom("graphics", "image", "lines", "locator", "mtext", "plot", "polygon")
+importFrom("stats", "cor", "quantile", "sd", "median")
+
